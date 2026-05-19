@@ -15,7 +15,7 @@ public class MockAIService implements AIService {
 
 	               Modo de preparo:
 	               1. Misture tudo.
-	               2. Leve ao forno por 40 minutos.
+	               2. Leve ao forno por 45 minutos.
 	               3. Sirva quente.
 	               """.formatted(ingredients);
 	}
